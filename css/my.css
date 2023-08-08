@@ -1,0 +1,52 @@
+.m_hover:hover {
+  color: #10bcee !important;
+}
+@media (min-width: 320px) {
+  .m_Media_BTN {
+    display: grid;
+  }
+}
+@media (max-width: 1000px) {
+  .hero .image-container {
+    display: flex;
+    justify-content: center;
+  }
+  .hero .text-container {
+    text-align: center;
+  }
+}
+.my_color1 {
+  color: #c167ef !important;
+}
+.my_color1_bg {
+  background-color: #c167ef !important;
+}
+@media (max-width: 767px) {
+  .My_OWN_STYLE {
+    display: grid;
+  }
+  .my_own_flex {
+    justify-content: center;
+  }
+}
+.my_Gray_BG {
+  background-color: #f3f6f9;
+}
+.root_bg {
+  margin-top: 200px !important;
+  padding-bottom: 30px;
+}
+.my_IMG {
+  margin-top: -100px !important;
+}
+.my_own_margin {
+  margin-top: 55px !important;
+  /* padding-top: 50px; */
+}
+.map iframe{
+  left: 0;
+  top: 0;
+  height: 400px;
+  width: 100%;
+  border: none;
+}
